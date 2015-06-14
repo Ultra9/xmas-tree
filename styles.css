@@ -115,7 +115,9 @@
     -moz-transform: rotate(-180deg);
     -ms-transform: rotate(-18deg);
     -o-transform: rotate(-18deg)
-    transform: rotate(-18deg);     
+    transform: rotate(-18deg);
+    
+    
 }
 
 .cane.three{
